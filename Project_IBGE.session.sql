@@ -1,1 +1,0 @@
-select * from f_pbi_municipio
